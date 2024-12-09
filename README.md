@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Unity environment that utilizes reinforcement learning<br>🌱 I’m currently learning PyTorch for machine vision
+🔭 I’m currently working on a Unity environment that utilizes reinforcement learning<br>🌱 Working on Bondfish, a UCI chess engine.
 
 
 # 💻 Tech Stack:
