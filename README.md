@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Unity environment that utilizes reinforcement learning<br>🌱 Working on Bondfish, a UCI chess engine.
+🔭 I’m currently working on a Unity environment that utilizes reinforcement learning<br>🌱 Working on UCI chess engine.
 
 
 # 💻 Tech Stack:
