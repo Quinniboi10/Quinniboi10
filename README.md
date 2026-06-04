@@ -1,5 +1,6 @@
 # About Me:
-Developer of Ember, a general use neural network trainer<br>Developer of a superhuman on UCI chess engine.
+Developer of Ember, a general use neural network trainer<br>
+Developer of a superhuman UCI chess engine, Prelude.
 
 
 # Strongest Languages:
